@@ -1,0 +1,1 @@
+.\bin\sbt.bat "run-main examples.ColorBufferReader marge images/pathtrace_1ray500x500_50000paths_cols.mrb 10.0 images/pathtrace_2ray500x500_50000paths_cols.mrb 10.0 41228 images/pathtrace_2ray500x500_41228paths_cols.png"
